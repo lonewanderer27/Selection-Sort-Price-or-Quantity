@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Sort_Price_or_Quantity", "Selection_Sort_Price_or_Quantity.csproj", "{F77DE15E-7B0E-4ED4-B5A7-CF5656F0A388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77DE15E-7B0E-4ED4-B5A7-CF5656F0A388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77DE15E-7B0E-4ED4-B5A7-CF5656F0A388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77DE15E-7B0E-4ED4-B5A7-CF5656F0A388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77DE15E-7B0E-4ED4-B5A7-CF5656F0A388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
